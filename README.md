@@ -1,4 +1,4 @@
-- `#Random`
+- `#RAMDOM`
 - `user-agent`
 
-- `https://raw.githubusercontent.com/PSYCHO-PICCHI/ua/main/bbnew.txt`
+- `https://github.com/M4HMU4-169/ua/blob/main/bbnew.txt`
